@@ -710,7 +710,9 @@ body {
 
 .offer .badge { font-weight: var(--fw-500); }
 
-.offer .section-title { margin-block: 20px 8px; }
+.offer .section-title { 
+  margin-block: 20px 8px;
+  direction: rtl;  }
 
 .offer .section-text { font-size: var(--fs-6); direction: rtl; }
 
